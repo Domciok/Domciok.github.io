@@ -1,0 +1,151 @@
+body{
+    background-image: url(/Image/Tłos.jpg);
+}
+#container{
+    margin: 0 auto;
+    width: 1000px;
+    height: auto;
+    
+}
+.img_top{
+    margin-left: auto;
+    margin-right: auto;   
+    width: 100%;
+    height: auto;
+}
+.img_top img{
+    width: 100%;
+    border-radius: 25px;
+}
+.left{
+    width: 20%;
+    float: left;
+}
+.tabel1{
+    width: 100%;
+    float: left;
+    
+}
+
+.t1  {
+    border-collapse:collapse;
+    border-spacing:0;
+    
+    
+}
+.t1 td{
+    font-family:Arial,sans-serif;
+    font-size:14px;
+    padding:3px 5px;
+    border-style:solid;
+    border-width:1px;
+    overflow:hidden;
+    word-break:normal;
+    border-color:black;
+    
+}
+.t1 th{
+    font-family:Arial, sans-serif;
+    font-size:14px;
+    font-weight:normal;
+    padding:10px 5px;
+    border-style:solid;
+    border-width:1px;
+    overflow:hidden;
+    word-break:normal;
+    border-color:black;
+    
+}
+.t1 .t1-1{
+    font-size:10px;
+    background-color:#c0c0c0;
+    color:#333333;
+    border-color:#333333;
+    text-align:center;
+    vertical-align:top
+    
+}
+.t1 .M{
+    font-family:Georgia, serif !important;;
+    background-color:#c0c0c0;
+    border-color:inherit;
+    text-align:left;
+    vertical-align:top
+}
+.t1 .Ligowa{
+    font-size:16px;
+    background-color:#c0c0c0;
+    color:#333333;
+    border-color:#333333;
+    text-align:center;
+    vertical-align:top
+}
+.t1 .P{
+    background-color:#c0c0c0;
+    color:#333333;
+    border-color:inherit;
+    text-align:left;
+    vertical-align:top
+}
+.center{
+    width: 60%;
+    float: left;
+    
+}
+.right{
+    width: 20%;
+    float: right;
+}
+h1{
+    text-align: center;
+}
+.t2{
+    border-collapse:collapse;
+    border-spacing:0;
+}
+.t2 td{
+    background-color:#c0c0c0;
+    font-family:Arial, sans-serif;
+    font-size:14px;
+    padding:4px 20px;
+    border-style:solid;
+    border-width:1px;
+    overflow:hidden;
+    word-break:normal;
+    border-color:black;
+}
+.t2 th{
+    background-color:#c0c0c0;
+    font-family:Arial, sans-serif;
+    font-size:14px;
+    font-weight:normal;
+    padding:4px 20px;
+    border-style:solid;
+    border-width:1px;
+    overflow:hidden;
+    word-break:normal;
+    border-color:black;
+}
+.t2 .t2-4{
+    background-color:#c0c0c0;
+    border-color:inherit;
+    text-align:center
+}
+.t2 .t2-1{
+    background-color:#c0c0c0;
+    font-size:18px;
+    font-family:Georgia, serif !important;;
+    border-color:inherit;
+    text-align:center
+}
+.t2 .t2-2{
+    background-color:#c0c0c0;
+    border-color:inherit;
+    text-align:left
+}
+.t2 .t2-3{
+    background-color:#c0c0c0;
+    border-color:inherit;
+    text-align:left;
+    vertical-align:top
+}
